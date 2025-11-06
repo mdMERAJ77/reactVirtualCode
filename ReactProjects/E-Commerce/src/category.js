@@ -23,7 +23,7 @@ export const category = [
   },
   {
     id: 4,
-    name: "Home And Kitchen",
+    name: "Home & Kitchen",
     image: homeAndKitchen,
   },
   {

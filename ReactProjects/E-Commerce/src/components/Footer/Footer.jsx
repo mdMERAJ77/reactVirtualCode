@@ -1,7 +1,10 @@
 import "./Footer.css"
 function Footer() {
   return (
-    <div>Footer</div>
+    <div className="footer">
+      &copy; Copyright E-shop
+      <span>Developer: MERAJ</span>
+    </div>
   )
 }
 

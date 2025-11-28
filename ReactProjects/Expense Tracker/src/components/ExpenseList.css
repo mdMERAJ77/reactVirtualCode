@@ -1,0 +1,15 @@
+.empty-container {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.empty-icon {
+  font-size: 55px;
+  margin-bottom: 10px;
+}
+
+.empty-message {
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+  color: #6b7280;
+}

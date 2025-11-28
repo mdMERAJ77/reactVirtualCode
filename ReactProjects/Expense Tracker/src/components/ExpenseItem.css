@@ -1,0 +1,40 @@
+.expense-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #f9fafb;
+  padding: 2px 5px;
+  margin: 10px 0;
+  border-radius: 8px;
+  font-family: "Poppins", sans-serif;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.08);
+}
+
+.expense-title {
+  font-size: 18px;
+  font-weight: 500;
+  color: #374151;
+  margin-right: 20px;
+}
+
+.expense-amount {
+  font-size: 18px;
+  font-weight: 600;
+  color: #111827;
+  margin-right: 20px;
+}
+
+.delete-btn {
+  background: #ef4444;
+  color: white;
+  border: none;
+  padding: 8px 14px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: 0.3s ease;
+}
+
+.delete-btn:hover {
+  background: #dc2626;
+}

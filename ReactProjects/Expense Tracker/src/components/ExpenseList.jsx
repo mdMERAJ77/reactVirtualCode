@@ -12,7 +12,7 @@ function ExpenseList({ expenses, deleteItem }) {
 }
 
   return (
-    <div>
+    <div className="expense-list-container">
       {expenses.map((currExpense) => (
         <ExpenseItem
           key={currExpense.id}
